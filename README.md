@@ -48,5 +48,6 @@
 
 ### 🐍 Contribution Snake
 ![Snake animation](https://github.com/pabasaralakmal2/pabasaralakmal2/blob/output/github-contribution-grid-snake.svg)
+![Snake animation dark](https://github.com/pabasaralakmal2/pabasaralakmal2/blob/output/github-contribution-grid-snake-dark.svg)
 
 ###
