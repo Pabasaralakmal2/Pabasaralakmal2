@@ -7,6 +7,7 @@
   </a> 
 </p>
 
+
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 - 🎓 I’m currently Studying in **Rajarata University Sri Lanka**  
@@ -46,3 +47,4 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
