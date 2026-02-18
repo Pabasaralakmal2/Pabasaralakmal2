@@ -10,7 +10,7 @@
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-- 🎓 I’m currently Studying in **Rajarata University Sri Lanka**  
+- 🎓 I’m currently Studying at **Rajarata University Sri Lanka**  
 - 🌱 I’m currently learning **C , C++**  
 - 📫 How to reach me **pabasaralakmal275@gmail.com**  
 - ⚡ Fun fact **I Think I'm Funny**  
