@@ -2,6 +2,7 @@
 <h3 align="center">An ICT Student From Sri Lanka</h3>
 
 <p align="left"> 
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Pabasaralakmal2)](https://github.com/ryo-ma/github-profile-trophy)
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Pabasaralakmal2" alt="Pabasaralakmal2" />
   </a> 
