@@ -1,50 +1,130 @@
-<h1 align="center">Hi 👋, I'm Pabasara Lakmal</h1>
-<h3 align="center">An ICT Student From Sri Lanka</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pabasara%20Lakmal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ICT%20Student%20%7C%20Code%20Enthusiast%20%7C%20Sri%20Lanka%20🇱🇰&descSize=14&descAlignY=55" width="100%"/>
+</div>
 
-<p align="left"> 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Pabasaralakmal2)](https://github.com/ryo-ma/github-profile-trophy)
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Pabasaralakmal2" alt="Pabasaralakmal2" />
-  </a> 
-</p>
+<!-- Animated Typing Effect -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+the+future+with+code;Learning+C+%26+C%2B%2B;Cloud+%26+IoT+Explorer;Rajarata+University+Student" alt="Typing SVG" />
+  </a>
+</div>
 
+<br/>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<!-- Profile Views Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pabasaralakmal2&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Pabasaralakmal2?label=Followers&style=flat-square&color=0e75b6" alt="followers" />
+  <img src="https://img.shields.io/github/stars/Pabasaralakmal2?label=Stars&style=flat-square&color=0e75b6" alt="stars" />
+</div>
 
-- 🎓 I’m currently Studying at **Rajarata University Sri Lanka**  
-- 🌱 I’m currently learning **C , C++**  
-- 📫 How to reach me **pabasaralakmal275@gmail.com**  
-- ⚡ Fun fact **I Think I'm Funny**  
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pabasara-lakmal-5719a8213" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pabasara-lakmal-5719a8213" height="70" width="70" />
-</a>
-</a>
-<a href="https://instagram.com/_.pabasara_" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.pabasara_" height="60" width="60" />
-</a>
-</p>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="75" height="75"/> </a> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="75" height="75"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="75" height="75"/> </a> 
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="75" height="75"/> </a> 
-  <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="75" height="75"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="75" height="75"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="75" height="75"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="75" height="75"/> </a> 
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="75" height="75"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="75" height="75"/> </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="75" height="75"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="75" height="75"/> </a> 
-</p>
+## 🎯 About Me
 
+<div align="center">
+  <table>
+    <tr>
+      <td width="60%" valign="top">
+      
+```c
+#include <life.h>
 
----
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+typedef struct {
+    char* name;
+    char* role;
+    char* location;
+    char* passion;
+} Developer;
+
+Developer pabasara = {
+    .name = "Pabasara Lakmal",
+    .role = "ICT Student",
+    .location = "Sri Lanka 🇱🇰",
+    .passion = "Turning ideas into code"
+};
+
+while(alive) {
+    learn();
+    code();
+    innovate();
+    repeat();
+}
+  </td>
+  <td width="40%" align="center">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" style="border-radius: 10px; box-shadow: 0 0 20px rgba(0,217,255,0.3);" />
+    <br/>
+    <em>💡 "Code is like humor. When you have to explain it, it's bad."</em>
+  </td>
+</tr>
+</table>
+</div>
+<br/>
+<!-- Tech Stack Section with Animated Icons -->
+<h2 align="center">🛠️ Tech Arsenal</h2>
+<div align="center">
+Languages & Core
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python&theme=dark&perline=4" />
+Web & Cloud
+  <img src="https://skillicons.dev/icons?i=html,css,aws,gcp,heroku&theme=dark&perline=5" />
+Tools & Platforms
+  <img src="https://skillicons.dev/icons?i=linux,mongodb,arduino,git,photoshop&theme=dark&perline=5" />
+</div>
+<br/>
+<!-- GitHub Stats with Glassmorphism Effect -->
+<h2 align="center">📊 GitHub Analytics</h2>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Pabasaralakmal2&show_icons=true&theme=transparent&hide_border=true&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&bg_color=0d1117&border_radius=10" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pabasaralakmal2&layout=compact&theme=transparent&hide_border=true&title_color=00d9ff&text_color=c9d1d9&bg_color=0d1117&border_radius=10" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pabasaralakmal2&theme=transparent&hide_border=true&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=c9d1d9&background=0d1117" alt="GitHub Streak" width="70%" />
+</div>
+<br/>
+<!-- Trophies with Neon Effect -->
+<h2 align="center">🏆 Achievements</h2>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pabasaralakmal2&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="Trophies" />
+</div>
+<br/>
+<!-- Connect Section -->
+<h2 align="center">🌐 Let's Connect</h2>
+<div align="center">
+  <a href="https://linkedin.com/in/pabasara-lakmal-5719a8213" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/_.pabasara_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&color=E4405F" alt="Instagram" />
+  </a>
+  <a href="mailto:pabasaralakmal275@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=D14836" alt="Gmail" />
+  </a>
+</div>
+<br/>
+<!-- Snake Animation -->
+<div align="center">
+  <h3>🐍 Contribution Snake</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+<br/>
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
+  <p><strong>✨ Crafted with passion by Pabasara Lakmal</strong></p>
+  <p><em>From Sri Lanka with 💙</em></p>
+</div>
+```
