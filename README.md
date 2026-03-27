@@ -29,9 +29,9 @@
   <table>
     <tr>
       <td width="60%" valign="top">
-      
-```c
-#include <life.h>
+        <pre><code class="language-c">
+
+#include &lt;life.h&gt;
 
 typedef struct {
     char* name;
@@ -53,27 +53,32 @@ while(alive) {
     innovate();
     repeat();
 }
-  </td>
-  <td width="40%" align="center">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" style="border-radius: 10px; box-shadow: 0 0 20px rgba(0,217,255,0.3);" />
-    <br/>
-    <em>💡 "Code is like humor. When you have to explain it, it's bad."</em>
-  </td>
-</tr>
-</table>
+        </code></pre>
+      </td>
+      <td width="40%" align="center">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" style="border-radius: 10px; box-shadow: 0 0 20px rgba(0,217,255,0.3);" />
+        <br/>
+        <em>💡 "Code is like humor. When you have to explain it, it's bad."</em>
+      </td>
+    </tr>
+  </table>
 </div>
+
 <br/>
+
 <!-- Tech Stack Section with Animated Icons -->
 <h2 align="center">🛠️ Tech Arsenal</h2>
 <div align="center">
-Languages & Core
+  <p>Languages & Core</p>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python&theme=dark&perline=4" />
-Web & Cloud
+  <p>Web & Cloud</p>
   <img src="https://skillicons.dev/icons?i=html,css,aws,gcp,heroku&theme=dark&perline=5" />
-Tools & Platforms
+  <p>Tools & Platforms</p>
   <img src="https://skillicons.dev/icons?i=linux,mongodb,arduino,git,photoshop&theme=dark&perline=5" />
 </div>
+
 <br/>
+
 <!-- GitHub Stats with Glassmorphism Effect -->
 <h2 align="center">📊 GitHub Analytics</h2>
 <div align="center">
@@ -90,13 +95,17 @@ Tools & Platforms
   <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pabasaralakmal2&theme=transparent&hide_border=true&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=c9d1d9&background=0d1117" alt="GitHub Streak" width="70%" />
 </div>
+
 <br/>
+
 <!-- Trophies with Neon Effect -->
 <h2 align="center">🏆 Achievements</h2>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Pabasaralakmal2&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="Trophies" />
 </div>
+
 <br/>
+
 <!-- Connect Section -->
 <h2 align="center">🌐 Let's Connect</h2>
 <div align="center">
@@ -110,7 +119,9 @@ Tools & Platforms
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=D14836" alt="Gmail" />
   </a>
 </div>
+
 <br/>
+
 <!-- Snake Animation -->
 <div align="center">
   <h3>🐍 Contribution Snake</h3>
@@ -120,11 +131,12 @@ Tools & Platforms
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
+
 <br/>
+
 <!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
   <p><strong>✨ Crafted with passion by Pabasara Lakmal</strong></p>
   <p><em>From Sri Lanka with 💙</em></p>
 </div>
-```
