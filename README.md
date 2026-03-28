@@ -22,63 +22,58 @@
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## 🎯 About Me
 
 <div align="center">
   <table>
     <tr>
-      <td width="60%" valign="top">
-        <pre><code class="language-c">
+      <td width="50%" align="center" valign="middle">
 
-#include &lt;life.h&gt;
+### 👨‍💻 Pabasara Lakmal
 
-typedef struct {
-    char* name;
-    char* role;
-    char* location;
-    char* passion;
-} Developer;
+<img src="https://img.shields.io/badge/🎓_ICT_Student-Rajarata_University-00d9ff?style=flat-square&color=0e75b6" />
+<img src="https://img.shields.io/badge/📍_Sri_Lanka-🇱🇰-ff6b6b?style=flat-square" />
+<img src="https://img.shields.io/badge/💡_Passion-Building_Things-ffd93d?style=flat-square&color=f7df1e" />
 
-Developer pabasara = {
-    .name = "Pabasara Lakmal",
-    .role = "ICT Student",
-    .location = "Sri Lanka 🇱🇰",
-    .passion = "Turning ideas into code"
-};
+<br/>
 
-while(alive) {
-    learn();
-    code();
-    innovate();
-    repeat();
-}
-        </code></pre>
-      </td>
-      <td width="40%" align="center">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" style="border-radius: 10px; box-shadow: 0 0 20px rgba(0,217,255,0.3);" />
+**Learning:** C • C++ • Cloud • IoT  
+**Building:** The future, one line at a time
+
+<br/>
+
+> *while(alive) {*  
+> *⠀learn(); code(); innovate();*  
+> *}*
+
+  </td>
+      <td width="50%" align="center">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" style="border-radius: 10px;" />
         <br/>
-        <em>💡 "Code is like humor. When you have to explain it, it's bad."</em>
+        <sub>💻 Coding the dream</sub>
       </td>
     </tr>
   </table>
 </div>
 
 <br/>
+<br/>
+<br/>
+
 
 <!-- Tech Stack Section with Animated Icons -->
 <h2 align="center">🛠️ Tech Arsenal</h2>
 <div align="center">
-  <p>Languages & Core</p>
+Languages & Core
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python&theme=dark&perline=4" />
-  <p>Web & Cloud</p>
+Web & Cloud
   <img src="https://skillicons.dev/icons?i=html,css,aws,gcp,heroku&theme=dark&perline=5" />
-  <p>Tools & Platforms</p>
+Tools & Platforms
   <img src="https://skillicons.dev/icons?i=linux,mongodb,arduino,git,photoshop&theme=dark&perline=5" />
 </div>
-
 <br/>
-
+<br/>
+<br/>
 <!-- GitHub Stats with Glassmorphism Effect -->
 <h2 align="center">📊 GitHub Analytics</h2>
 <div align="center">
@@ -92,20 +87,17 @@ while(alive) {
       </td>
     </tr>
   </table>
+  
   <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pabasaralakmal2&theme=transparent&hide_border=true&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=c9d1d9&background=0d1117" alt="GitHub Streak" width="70%" />
 </div>
-
 <br/>
-
 <!-- Trophies with Neon Effect -->
 <h2 align="center">🏆 Achievements</h2>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Pabasaralakmal2&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="Trophies" />
 </div>
-
 <br/>
-
 <!-- Connect Section -->
 <h2 align="center">🌐 Let's Connect</h2>
 <div align="center">
@@ -119,9 +111,7 @@ while(alive) {
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=D14836" alt="Gmail" />
   </a>
 </div>
-
 <br/>
-
 <!-- Snake Animation -->
 <div align="center">
   <h3>🐍 Contribution Snake</h3>
@@ -131,9 +121,7 @@ while(alive) {
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
-
 <br/>
-
 <!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
