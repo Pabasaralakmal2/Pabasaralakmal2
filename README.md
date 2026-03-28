@@ -65,11 +65,18 @@
 <h2 align="center">🛠️ Tech Arsenal</h2>
 <div align="center">
 Languages & Core
+  <br/>
+  <br/>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python&theme=dark&perline=4" />
+  <br/><br/><br/>
 Web & Cloud
+  <br/><br/>
   <img src="https://skillicons.dev/icons?i=html,css,aws,gcp,heroku&theme=dark&perline=5" />
+  <br/><br/><br/>
 Tools & Platforms
+  <br/><br/>
   <img src="https://skillicons.dev/icons?i=linux,mongodb,arduino,git,photoshop&theme=dark&perline=5" />
+  <br/><br/><br/>
 </div>
 <br/>
 <br/>
