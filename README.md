@@ -108,15 +108,15 @@
   <table border="0">
     <tr>
       <td align="center" valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Pabasaralakmal2&show_icons=true&theme=transparent&hide_border=true&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&bg_color=00000000" alt="GitHub Stats" width="100%"/>
+        <img src=https://ghstats.dev/api/card?username=Pabasaralakmal2&theme=dracula&border_radius=16.5" alt="GitHub Stats" width="100%"/>
       </td>
-      <td align="center" valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pabasaralakmal2&layout=compact&theme=transparent&hide_border=true&title_color=00d9ff&text_color=c9d1d9&bg_color=00000000" alt="Top Languages" width="100%"/>
+      <td align="center" valign="top" width="80%">
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pabasaralakmal2&layout=donut" alt="Top Languages" width="200%"/>
       </td>
     </tr>
   </table>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pabasaralakmal2&theme=transparent&hide_border=true&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" width="80%" />
+  <img src="https://streak-stats.demolab.com?user=Pabasaralakmal2&theme=tokyonight" alt="GitHub Streak" width="80%" />
 </div>
 
 <br/>
@@ -124,7 +124,7 @@
 ## 🏆 Trophies & Contributions
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pabasaralakmal2&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7&title-color=00d9ff&text-color=c9d1d9" alt="Trophies" />
+  <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=Pabasaralakmal2&theme=discord" alt="Trophies" />
 </div>
 
 <br/>
