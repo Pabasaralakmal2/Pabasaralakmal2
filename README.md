@@ -108,7 +108,7 @@
   <table border="0">
     <tr>
       <td align="center" valign="top" width="50%">
-        <img src=https://ghstats.dev/api/card?username=Pabasaralakmal2&theme=dracula&border_radius=16.5" alt="GitHub Stats" width="100%"/>
+        <img src=https://ghstats.dev/api/card?username=Pabasaralakmal2&theme=dracula&border_radius=16.5" alt="GitHub Stats" width="80%"/>
       </td>
       <td align="center" valign="top" width="80%">
         <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pabasaralakmal2&layout=donut" alt="Top Languages" width="200%"/>
@@ -116,7 +116,7 @@
     </tr>
   </table>
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Pabasaralakmal2&theme=tokyonight" alt="GitHub Streak" width="80%" />
+  <img src="https://github-streak.rahuldhole.com/?user=Pabasaralakmal2&theme=light" alt="GitHub Streak" width="40%" />
 </div>
 
 <br/>
