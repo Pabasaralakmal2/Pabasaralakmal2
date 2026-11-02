@@ -9,6 +9,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,00d9ff&height=220&section=header&text=Pabasara%20Lakmal&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=ICT%20Student%20%7C%20Code%20Enthusiast%20%7C%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0&descSize=16&descAlignY=55" width="100%"/>
 </div>
 
+
+ https://count.getloli.com/@Pabasaralakmal2?theme=booru-lewd&padding=4&offset=0&align=top&scale=1.1&pixelated=1&darkmode=auto
 <!-- ⌨️ NEON TYPING TEXT -->
 <div align="center">
   <a href="https://git.io/typing-svg">
