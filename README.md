@@ -63,7 +63,7 @@
       </td>
       <td width="40%" align="center" valign="middle">
         <a href="https://github.com/Pabasaralakmal2">
-          <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90%" alt="Coding GIF" />
+          <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="90%" alt="Coding GIF" />
         </a>
       </td>
     </tr>
